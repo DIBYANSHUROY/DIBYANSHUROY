@@ -7,12 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building side projects and automating everyday tasks!
 
-<!---
-DIBYANSHUROY/DIBYANSHUROY is a ✨ special ✨ repository because its README.md will appear on your profile!
-You can click the Preview link to take a look at your changes.
---->
-```
 
-You can copy and paste this directly into your README file. Let me know if you'd like to personalize it more (e.g. adding GitHub stats, portfolio link, or a profile banner).
+
 
 
